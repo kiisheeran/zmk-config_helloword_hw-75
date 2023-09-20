@@ -30,7 +30,7 @@
 		arrow_vertical {
 			label = "上下";
 			bindings = <&lvkp LV_KEY_PREV &lvkp LV_KEY_NEXT>;
-			sensor-bindings = <&inc_dec_kp UP DOWN>;
+			sensor-bindings = <&inc_dec_kp DOWN UP>;
 		};
 
 		arrow_horizontal {
